@@ -1,2 +1,7 @@
 # virtualbox_ubuntu_docker
 VirtualBox with preinstalled Ubuntu server 16.04 and docker-ce
+
+User: vbox
+Pwd: vbox
+
+Docker installed as described here: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-docker-ce
